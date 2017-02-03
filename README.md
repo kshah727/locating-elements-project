@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# locating-elements Project
+## locating-elements-project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for locating-elements-project*
 
 **Java 7**
 
